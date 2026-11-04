@@ -1,0 +1,94 @@
+=== ROUTE PATHS ===
+
+=== API HOSTS ===
+https://api.wormgpt.live/v1
+https://wormgpt.co
+https://wormgpt.co/v1
+https://wormgpt.live
+https://wormgpt4.com
+https://wormgpt4.net
+
+=== LOCALSTORAGE KEYS ===
+answerFont
+language
+layoutMode
+selectedModel
+sessionToken
+systemPrompt
+textSize
+thinkingEffort
+worm-ide-workspace-v3
+worm_lab_notes
+worm_lab_wallpaper
+worm_playground_custom_key
+
+=== TOKEN/KEY PREFIXES ===
+wrm_live_
+wrm_live_xxxxxxxxxxxxxxxxxxxxxxxx
+wrm_test_
+
+=== LARGE CAPITALIZED IDENTIFIERS (sample) ===
+ABBREVIATED
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+ABORT
+ABORTRETRYIGNORE
+ABSOLUTE
+ABSTRACT
+ABbGZz
+ACCEPT
+ACCEPTING
+ACCESS
+ACCESSIBLE
+ACCESSPOLICY
+ACCORDING
+ACCOUNT
+ACOSH
+ACOTH
+ACTER
+ACTIFSUB
+ACTION
+ACTIVATE
+ACTIVATED
+ACTIVATION
+ACTIVE
+ACTUAL
+ACeEIjLor
+ADDCOLUMNS
+ADDED
+ADDHANDLER
+ADDMISSINGITEMS
+ADDRESS
+ADDRESSOF
+ADJACENT
+ADVANCED
+ADVANCING
+ADVISE
+AElig
+AFSDB
+AFTER
+AGENT
+AGGREGATE
+AGLToASL
+AISFinishHeal
+ALARM
+ALERT
+ALGORITHM
+ALIAS
+ALIASES
+ALIGN
+ALIGNED
+ALLCROSSFILTERED
+ALLEXCEPT
+ALLNOBLANKROW
+ALLOCATABLE
+ALLOCATE
+ALLSELECTED
+ALPHA
+ALPHABET
+ALPHABETIC
+ALPHANUMERIC
+ALREADY
+Traceback (most recent call last):
+  File "/tmp/deep.py", line 34, in <module>
+    PYEOF
+NameError: name 'PYEOF' is not defined

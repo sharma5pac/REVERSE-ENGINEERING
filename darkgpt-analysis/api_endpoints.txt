@@ -1,0 +1,16 @@
+--- API ENDPOINTS ---
+/api/admin
+/api/admin-2fa
+/api/admin/users
+/api/advertisement
+/api/auth/login?user=admin
+/api/chat-proxy
+/api/email-osint
+/api/get-file-url?fileKey=
+/api/my-files
+/api/mystery-box
+/api/partners
+/api/telegram-admin?action=
+/api/v1/cart/checkout?cart_id=102
+/api/v1/chat/completions
+/api/web-proxy?url=

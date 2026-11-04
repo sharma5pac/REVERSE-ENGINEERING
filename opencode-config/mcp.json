@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "kala-mcp": {
+      "command": "python3",
+      "args": ["/home/makavelli/Desktop/KALIII MCP/kala-mcp.py"],
+      "env": {
+        "PYTHONUNBUFFERED": "1",
+        "KALA_HIGH_RISK_ALLOW": "0"
+      }
+    }
+  }
+}
